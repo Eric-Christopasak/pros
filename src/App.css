@@ -1,0 +1,55 @@
+body{
+    overflow-x: hidden;
+}
+.footer-menu h6{
+    color: red;
+}
+
+.footer-menu li:hover{
+    color: red;
+}
+
+.bi-facebook{
+ color: rgb(56, 135, 246);
+}
+.bi-youtube{
+    color: red;
+   }
+   .bi-linkedin{
+    color: rgb(49, 49, 234);
+   }
+   .bi-pinterest{
+    color: rgb(186, 24, 24);
+   }
+   .bi-twitter{
+    color: rgb(95, 153, 234);
+   }
+
+/* input css  */
+/* From Uiverse.io by deepak16375 */ 
+.inputs {
+    max-width: 190px;
+    padding: 8px;
+    font-size: 14px;
+    padding-bottom: 12px;
+    color: black;
+    border-top-left-radius: .5em;
+    border-bottom-left-radius: .5em;
+    border: 2px solid #fff;
+    margin-right: -4px;
+
+  }
+  
+  .buttons {
+    border: 2px solid red;
+    background-color: red;
+    text-decoration: none;
+    padding: 8px;  
+ 
+    padding-bottom: 12px;
+    font-size: 14px;
+    color: #fff;
+    border-top-right-radius: .5em;
+    border-bottom-right-radius: .5em;
+    cursor: pointer;
+  }

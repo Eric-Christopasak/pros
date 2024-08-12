@@ -1,0 +1,12 @@
+/* cart  */
+.image{
+    height: 4rem;
+    width: 4rem;
+  }
+  .names h6{
+    font-size: 10px;
+    color: grey;
+  }
+  .values h6{
+    font-size: 12px;
+  }
